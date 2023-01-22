@@ -35,7 +35,7 @@ Before run these python codes you should install these neccessary softwares and 
 
 [**Predict goal possibility**](https://github.com/pak-app/ai-projects/tree/main/02-goal_prediction): Are you fan of football ??
 <br>If your answer is **Yes**, you will get all of fun out of this project !!!</br>
-<br>If your answer is **No** , don't worry you will get fun out of this project as much as football fans too and you may like this sport :)</br>
+If your answer is **No** , don't worry you will get fun out of this project as much as football fans too and you may like this sport :)
 <br>So in this project you have some features about players and theirs abilitie. In addition of that you have some information about player position to caculate propability of goal.</br>
 In this project we use two diffrent models, **Deep Neural Network** and **SVM**.
 > **Note**: This project was one of questions of quera's challange and its file is available in related link.

@@ -42,4 +42,4 @@ In this project we use two diffrent models, **Deep Neural Network** and **SVM**.
 
 
 If these projects was helful and you enjoyed like me :heart:
-Thank You :smile:
+<br>Thank You :smile:</br>

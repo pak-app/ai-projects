@@ -18,7 +18,7 @@ Before run these python codes you should install these neccessary softwares and 
 1- Install Python</br>
 > **Note**: If you didn't install Python, Download [Python](https://www.python.org/downloads/) and install
 
-2- Install Numpy and Pandas libraries
+2- Install Numpy and Pandas
 > **Numpy**: *pip install numpy*
 > <br>**Pandas**: *pip install pandas*</br>
 

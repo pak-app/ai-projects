@@ -20,7 +20,7 @@ Before run these python codes you should install these neccessary softwares and 
 
 2- Install Numpy and Pandas libraries
 > **Numpy**: *pip install numpy*
-> **Pandas**: *pip install pandas*
+> <br>**Pandas**: *pip install pandas*</br>
 
 3- Install Scikit-Learn
 > **Scikit-Learn**: *pip install -U scikit-learn*

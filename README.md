@@ -14,8 +14,8 @@ In this repository you can find and learn about:
 > Implement and solve real and amazing problems using *AI algorithms**
 
 ### Install neccessary packages:
-Before run these python codes you should install these neccessary softwares and packages to use:
-1- Install Python
+Before run these python codes you should install these neccessary softwares and packages to use:<br>
+1- Install Python</br>
 > **Note**: If you didn't install Python, Download [Python](https://www.python.org/downloads/) and install
 
 2- Install Numpy and Pandas libraries

@@ -41,5 +41,5 @@ In this project we use two diffrent models, **Deep Neural Network** and **SVM**.
 > **Note**: This project was one of questions of quera's challange and its file is available in related link.
 
 
-If these projects was helful and you enjoyed like me :heart:
+If these projects were helful and you enjoyed like me :heart:
 <br>Thank You :smile:</br>

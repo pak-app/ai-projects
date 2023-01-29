@@ -38,8 +38,8 @@ Before run these python codes you should install these neccessary softwares and 
 If your answer is **No** , don't worry you will get fun out of this project as much as football fans too and you may like this sport :)
 <br>So in this project you have some features about players and theirs abilitie. In addition of that you have some information about player position to caculate propability of goal.</br>
 In this project we use two diffrent models, **Deep Neural Network** and **SVM**.
-
 > **Note**: This project was one of questions of quera's challange and its file is available in related link.
+
 [**Perotein Classification**](https://github.com/pak-app/ai-projects/tree/main/03-perotein-classification): In this project we are going to classify proteins using KNN and RandomForest algorithms. In addition building models, we do data preprocessing in this project and you can learn some tricks in it. 
 In this project we are going to check and plot best hyperparameters for each algorithms to achieve best result.
 >**Note**: Because of github upload limitation you have to download dataset via this [link](https://drive.google.com/drive/u/0/folders/1Bn_6w_PWJqZhzxjxSvO2DzYqJMLhhzK-)
